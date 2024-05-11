@@ -1,0 +1,8 @@
+path: '/content/gdrive/My Drive/NumberPlateDetection/data' 
+train: images/train 
+test: images/test
+val: images/valid  
+
+names:
+  0: license_plate
+
