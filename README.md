@@ -1,1 +1,1 @@
-Number Plate Detection with YOLOv6 and easy OCR
+#**Number Plate Detection with YOLOv6 and easy OCR**
